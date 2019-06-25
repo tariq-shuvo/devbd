@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://devconnector123:devconnector123@devconnector-l0egb.mongodb.net/test?retryWrites=true",
+    "jwtSecrect": "mysecrect",
+    "authTokenExpire": 360000,
+    "githubClient": "9ac11b350a0caa544a6a",
+    "githubSecret": "ad1a717bad9451a65ffe28116c0ee6d673c280a0"
+}
